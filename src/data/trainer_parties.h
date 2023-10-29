@@ -94,14 +94,12 @@ static const struct TrainerMon sParty_GruntPetalburgWoods[] = {
 
 static const struct TrainerMon sParty_Marcel[] = {
     {
-    .iv = TRAINER_PARTY_IVS(12, 12, 12, 12, 12, 12),
-    .lvl = 29,
-    .species = SPECIES_MANECTRIC,
+    .lvl = 10,
+    .species = SPECIES_ZIGZAGOON,
     },
     {
-    .iv = TRAINER_PARTY_IVS(12, 12, 12, 12, 12, 12),
-    .lvl = 29,
-    .species = SPECIES_SHIFTRY,
+    .lvl = 10,
+    .species = SPECIES_POOCHYENA,
     }
 };
 

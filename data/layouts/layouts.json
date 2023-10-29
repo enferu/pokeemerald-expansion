@@ -4410,6 +4410,36 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_GRASSLANDS",
+      "name": "Grasslands_Layout",
+      "width": 50,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/Grasslands/border.bin",
+      "blockdata_filepath": "data/layouts/Grasslands/map.bin"
+    },
+    {
+      "id": "LAYOUT_DESERT",
+      "name": "Desert_Layout",
+      "width": 40,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/Desert/border.bin",
+      "blockdata_filepath": "data/layouts/Desert/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_MAP1",
+      "name": "NewMap1_Layout",
+      "width": 40,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/NewMap1/border.bin",
+      "blockdata_filepath": "data/layouts/NewMap1/map.bin"
     }
   ]
 }

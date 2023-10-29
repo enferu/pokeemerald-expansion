@@ -591,6 +591,11 @@
 // gMapGroup_IndoorRoute124
 #define MAP_ROUTE124_DIVING_TREASURE_HUNTERS_HOUSE (0 | (33 << 8))
 
-#define MAP_GROUPS_COUNT 34
+// gMapGroup_IntroIsland
+#define MAP_GRASSLANDS (0 | (34 << 8))
+#define MAP_DESERT     (1 | (34 << 8))
+#define MAP_NEW_MAP1   (2 | (34 << 8))
+
+#define MAP_GROUPS_COUNT 35
 
 #endif // GUARD_CONSTANTS_MAP_GROUPS_H
